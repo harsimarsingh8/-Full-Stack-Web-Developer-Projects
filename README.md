@@ -9,7 +9,7 @@ A Repository containing all the projects that I made during Udacity Full-Stack-W
 
 ### Certificate
 
-![Full-Stack-Certificate](/Full-Stack-Certificate.png)
+![Full-Stack-Certificate](/Full-Stack-certificate.png)
 
 
 ## Courses
@@ -30,19 +30,19 @@ A Repository containing all the projects that I made during Udacity Full-Stack-W
 
 
 ## Projects 
-__________________________________________________________________________________________
 
-#### [Movie Trailer Website](https://github.com/harsimarsingh8/movie-trailer-website)
-#### [Logs Analysis](https://github.com/harsimarsingh8/Log_Analysis)
-#### [Item Catalog](https://github.com/harsimarsingh8/item-catalog)
-#### [Linux Server Configuration](https://github.com/harsimarsingh8/Linux_server_configuration)
+__________________________________________________________________________________________
+#### 1.[Movie Trailer Website](https://github.com/harsimarsingh8/movie-trailer-website)
+#### 2.[Logs Analysis](https://github.com/harsimarsingh8/Log_Analysis)
+#### 3.[Item Catalog](https://github.com/harsimarsingh8/item-catalog)
+#### 4.[Linux Server Configuration](https://github.com/harsimarsingh8/Linux_server_configuration)
 
 
 
 ## Live Projects
-____________________________________________________________________________________________
 
-#### [Movie Trailer Website](https://harsimarsingh8.github.io/movie-trailer-website/fresh_tomatoes.html)
-#### [Logs Analysis](https://harsimarsingh8.github.io/Log_Analysis/result_output.txt)
-#### [Item Catalog](13.232.77.118)
-#### [Linux Server Configuration](13.232.77.118)
+____________________________________________________________________________________________
+#### 1.[Movie Trailer Website](https://harsimarsingh8.github.io/movie-trailer-website/fresh_tomatoes.html)
+#### 2.[Logs Analysis](https://harsimarsingh8.github.io/Log_Analysis/result_output.txt)
+#### 3.[Item Catalog](13.232.77.118)
+#### 4.[Linux Server Configuration](13.232.77.118)
