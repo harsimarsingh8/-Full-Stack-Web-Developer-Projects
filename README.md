@@ -31,7 +31,6 @@ A Repository containing all the projects that I made during Udacity Full-Stack-W
 
 ## Projects 
 
-__________________________________________________________________________________________
 #### 1.[Movie Trailer Website](https://github.com/harsimarsingh8/movie-trailer-website)
 #### 2.[Logs Analysis](https://github.com/harsimarsingh8/Log_Analysis)
 #### 3.[Item Catalog](https://github.com/harsimarsingh8/item-catalog)
@@ -41,7 +40,6 @@ ________________________________________________________________________________
 
 ## Live Projects
 
-____________________________________________________________________________________________
 #### 1.[Movie Trailer Website](https://harsimarsingh8.github.io/movie-trailer-website/fresh_tomatoes.html)
 #### 2.[Logs Analysis](https://harsimarsingh8.github.io/Log_Analysis/result_output.txt)
 #### 3.[Item Catalog](13.232.77.118)
